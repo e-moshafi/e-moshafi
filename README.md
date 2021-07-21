@@ -1,3 +1,3 @@
-<div align="center">&#128526	 HI I AM ERFAN MOSHAFI</div>
+<div align="center"><h1>HI I AM ERFAN MOSHAFI</h1></div>
 <hr>
-<img src="https://jw-webmagazine.com/wp-content/uploads/2020/03/Kimetsu-no-YaibaDemon-Slayer.jpg" style="width:20px;height:20px"/>
+<div align="center"><img src="https://jw-webmagazine.com/wp-content/uploads/2020/03/Kimetsu-no-YaibaDemon-Slayer.jpg" style="width:70px;height:70px;border-radius: 50px"/><img src="https://jw-webmagazine.com/wp-content/uploads/2020/03/Kimetsu-no-YaibaDemon-Slayer.jpg" style="width:70px;height:70px;border-radius: 50px"/></div>
